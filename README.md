@@ -38,5 +38,6 @@ based on a mapping Excel file.
 
 ![Page 1](images/Source_file.png)
 
+![Page 2](images/mapping_file.png)
 
-![Page 2](images/Transformed_file.png)
+![Page 3](images/Transformed_file.png)

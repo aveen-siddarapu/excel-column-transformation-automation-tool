@@ -141,7 +141,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# Notes:
-# Performance optimization: seek help with large files, multiple tables, etc.

@@ -34,5 +34,9 @@ based on a mapping Excel file.
 
 ## Output
 - The output file is created in the same folder as the source file.
-- File name format:
-  `<sourcefilename>-transformed.xlsx`
+- File name format:`<sourcefilename>-transformed.xlsx`
+
+![Page 1](images/Source_file.png)
+
+
+![Page 2](images/Transformed_file.png)
